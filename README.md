@@ -1,8 +1,8 @@
 # One Word for the Boss — Houseplant
 
-[![make.fun](https://make.fun/badge/u-swift-badger-44-one-word-for-the-boss-6b48c735)](https://make.fun/bounty/u-swift-badger-44-one-word-for-the-boss-6b48c735)
-[![make.fun entry](https://make.fun/badge/entry/u-swift-badger-44-one-word-for-the-boss-6b48c735)](https://make.fun/bounty/u-swift-badger-44-one-word-for-the-boss-6b48c735)
-[![make.fun bounty](https://make.fun/badge/bounty/u-swift-badger-44-one-word-for-the-boss-6b48c735)](https://make.fun/bounty/u-swift-badger-44-one-word-for-the-boss-6b48c735)
+[![make.fun · u-swift-badger-44-one-word-for-the-boss-6b48c735](https://make.fun/badge/u-swift-badger-44-one-word-for-the-boss-6b48c735.svg)](https://make.fun/bounty/u-swift-badger-44-one-word-for-the-boss-6b48c735?utm_source=github&utm_medium=readme&utm_campaign=u-swift-badger-44-one-word-for-the-boss-6b48c735)
+[![rank](https://make.fun/badge/u-swift-badger-44-one-word-for-the-boss-6b48c735/rsrizal2-ai/u-swift-badger-44-one-word-for-the-boss-6b48c735/rank.svg)](https://make.fun/bounty/u-swift-badger-44-one-word-for-the-boss-6b48c735/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-swift-badger-44-one-word-for-the-boss-6b48c735)
+[![reward](https://make.fun/badge/u-swift-badger-44-one-word-for-the-boss-6b48c735/rsrizal2-ai/u-swift-badger-44-one-word-for-the-boss-6b48c735/reward.svg)](https://make.fun/bounty/u-swift-badger-44-one-word-for-the-boss-6b48c735?utm_source=github&utm_medium=readme&utm_campaign=u-swift-badger-44-one-word-for-the-boss-6b48c735)
 
 Bounty: [One Word for the Boss](https://make.fun/bounty/u-swift-badger-44-one-word-for-the-boss-6b48c735)
 
